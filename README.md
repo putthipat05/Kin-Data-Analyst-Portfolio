@@ -2,9 +2,12 @@
 Welcome to my Portfolio , These are my project in my portfolio 📊
 
 ## 📚 Table of Contents
--🗃️SQL(#sql)
--🐍Python(#python)
--📊PowerBI(#PowerBI)
+
+-🗃️[SQL](#sql)
+
+-🐍[Python](#python)
+
+-📊[PowerBI](#PowerBI)
 
 ## 🗃️SQL
 
