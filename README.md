@@ -13,7 +13,7 @@ Welcome to my Portfolio , These are my project in my portfolio 📊
 
 | Project Name | Area of Analysis | Project Description |
 |---|---|---|
-| [International students study university in Taiwan() | Students analyst | Analytics of students population growth in Taiwan how population had increased in this 5 years by using SQL. |
+| [International students study university in Taiwan](https://github.com/putthipat05/International-students-study-university-in-Taiwan-project) | Students analyst | Analytics of students population growth in Taiwan how population had increased in this 5 years by using SQL. |
 
 ## 🐍Python
 
