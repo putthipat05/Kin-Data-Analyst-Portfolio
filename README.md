@@ -1,4 +1,4 @@
-# 📊Kin-Data-Analyst-Portfolio
+# 📊Kin-Portfolio
 Welcome to my Portfolio , These are my project in my portfolio 📊
 
 ## 📚 Table of Contents
