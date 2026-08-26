@@ -3,11 +3,11 @@ Welcome to my Portfolio , These are my project in my portfolio 📊
 
 ## 📚 Table of Contents
 
--🗃️[SQL](#sql)
+-🗃️[SQL](Sql)
 
--🐍[Python](#python)
+-🐍[Python](Python)
 
--📊[PowerBI](#PowerBI)
+-📊[PowerBI](PowerBI)
 
 ## 🗃️SQL
 
