@@ -14,8 +14,7 @@ Welcome to my Portfolio , These are my project in my portfolio 📊
 | Project Name | Area of Analysis | Project Description |
 |---|---|---|
 | [International students study university in Taiwan](https://github.com/putthipat05/International-students-study-university-in-Taiwan-project) | Trend Analysis of International Students | Analyzed the 5-year growth and population trends of international students in Taiwan using SQL to uncover historical enrollment patterns and key insights. |
-| [Supply Chain Risks Analytics](https://github.com/putthipat05/Supply-chain-Risk-Inventory-Buffer-Analytics) | 
-Evaluated supplier distribution across countries to identify high-risk regional concentrations using SQL cross-tabulation.| Developed an end-to-end SQL analytics solution simulating real-world supply chain management scenarios for leading semiconductor foundries (e.g., TSMC, ASML). The project addresses critical operational challenges including vendor reliability evaluation, single-source risk mitigation, Pareto capital allocation, lead-time moving average forecasting, and geopolitical risk matrix pivoting. |
+| [Supply Chain Risks Analytics](https://github.com/putthipat05/Supply-chain-Risk-Inventory-Buffer-Analytics) |Evaluated supplier distribution across countries to identify high-risk regional concentrations using SQL cross-tabulation.| Developed an end-to-end SQL analytics solution simulating real-world supply chain management scenarios for leading semiconductor foundries (e.g., TSMC, ASML). The project addresses critical operational challenges including vendor reliability evaluation, single-source risk mitigation, Pareto capital allocation, lead-time moving average forecasting, and geopolitical risk matrix pivoting. |
 
 ***
 
