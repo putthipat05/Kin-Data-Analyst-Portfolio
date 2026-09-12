@@ -23,6 +23,7 @@ Welcome to my Portfolio , These are my project in my portfolio 📊
 | Project Name | Area of work | Project Description |
 |---|---|---|
 | [TSMC yield data pipeline](https://github.com/putthipat05/TSMC-yield-data-pipeline) | Data cleaning, pipeline & Yield interpretation | An end-to-end data processing pipeline for semiconductor manufacturing yield analysis. This project simulates real-world "noisy" fabrication logs (1,000+ records) and leverages Python (Pandas) and SQL logic to execute automated data cleaning, missing value imputation, and relational dataset merging. The clean data is reshaped into cross-tabulation pivot reports to identify key defect categories impacting wafer yield across different manufacturing lots.  | 
+| [Semiconductor shortage affect]() | Conducted end-to-end data processing and time-series analysis—covering data cleaning, feature engineering, phase analytics, and business interpretation—using Python (Pandas, NumPy, Seaborn) | Built an end-to-end time-series pipeline using Python (Pandas, NumPy, Matplotlib, Seaborn) and Git to clean raw economic data, engineer YoY/MoM growth metrics and rolling averages, conduct 3-phase market correlation analytics, and interpret key business insights highlighting a 2.57% YoY peak price spike. |
 
 
 ***
