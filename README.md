@@ -3,6 +3,12 @@ Welcome to my Portfolio , These are my project in my portfolio 📊
 
 ## 📚 Table of Contents
 
+# End to end project
+
+| Project Name | Area of Analysis | Project Description |
+|---|---|---|
+| [Amazon sales](https://github.com/putthipat05/amazon-sales) | Analyze product performance and customer demand trends on Amazon | Analyzed customer demand and product performance using pricing, discount, rating, and review data to identify product trends and provide data-driven business recommendations for improving product performance and sales strategy.
+
 -🗃️[SQL](#Sql)
 
 -🐍[Python](#Python)
